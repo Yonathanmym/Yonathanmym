@@ -15,7 +15,7 @@
   <img src="https://komarev.com/ghpvc/?username=Yonathanmym&color=brightgreen&style=for-the-badge" alt="Profile Views"/>
 </div>
 <br/>
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> **Sobre Mí**
+ <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> **Sobre Mí**
 <img align="right" alt="Ethical Hacking GIF" width="380" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 🔐 **Cybersecurity Specialist** y **Ethical Hacker** especializado en pentesting y análisis forense
 📊 **Data Scientist** apasionado por descubrir patrones en datos y crear insights de seguridad
@@ -26,8 +26,8 @@
 💼 Combino habilidades técnicas de hacking ético con análisis avanzado de datos
 <br/>
 ---
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> **Arsenal Tecnológico**
-### 🐍 **Lenguajes de Programación & Análisis**
+ <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> **Arsenal Tecnológico**
+ 🐍 **Lenguajes de Programación & Análisis**
 <div align="center">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/>
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
@@ -41,17 +41,17 @@
   <img src="https://img.shields.io/badge/NMAP-000000?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
   <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP"/>
 </div>
-### 📊 **Data Analytics & Visualization**
+ 📊 **Data Analytics & Visualization**
 <div align="center">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="Power BI"/>
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
 </div>
-### 🤖 **Machine Learning & Security Analytics**
+ 🤖 **Machine Learning & Security Analytics**
 <div align="center">
   <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 </div>
 ---
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> **Especialidades Duales**
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> **Especialidades Duales**
 <table align="center">
 <tr>
 <td align="center" width="200">
@@ -89,7 +89,7 @@
 </tr>
 </table>
 ---
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> **GitHub Analytics**
+ <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> **GitHub Analytics**
 <div align="center">
   <table>
     <tr>
@@ -102,7 +102,7 @@
     </tr>
   </table>
 </div>
-### 💻 **Lenguajes Dominados**
+ 💻 **Lenguajes Dominados**
 <div align="center">
   <table>
     <tr>
@@ -121,7 +121,7 @@
   </table>
 </div>
 ---
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> **Proyectos Destacados**
+ <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> **Proyectos Destacados**
 <div align="center">
   <a href="https://github.com/Yonathanmym">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yonathanmym&repo=cybersecurity-analytics-suite&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=ffffff&icon_color=FF0000" alt="Cybersecurity Analytics"/>
@@ -131,7 +131,7 @@
   </a>
 </div>
 ---
-## 🏆 **Certificaciones & Logros**
+ 🏆 **Certificaciones & Logros**
 <div align="center">
   <img src="https://img.shields.io/badge/CEH-Certified%20Ethical%20Hacker-FF0000?style=for-the-badge&logo=ec-council&logoColor=white" alt="CEH"/>
   <img src="https://img.shields.io/badge/CISSP-Security%20Professional-0066CC?style=for-the-badge&logo=isc2&logoColor=white" alt="CISSP"/>
@@ -140,7 +140,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Yonathanmym&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
 </div>
 ---
-## 🎯 **Mi Filosofía**
+🎯 **Mi Filosofía**
 <div align="center">
   <table>
     <tr>
@@ -156,7 +156,7 @@
   </table>
 </div>
 ---
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> **Conecta Conmigo**
+ <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> **Conecta Conmigo**
 <div align="center">
   <a href="mailto:renzo.toni.189@gmail.com">
     <img src="https://img.shields.io/badge/Email-renzo.toni.189@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
