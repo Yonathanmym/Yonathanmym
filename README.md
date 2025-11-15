@@ -1,9 +1,9 @@
 ## Hi there 👋
 [![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://arjuncvinod.github.io)
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img src="https://cdn-icons-png.flaticon.com/512/10473/10473363.png" width="28">
   ¡Hola!, Soy <strong>MARCO YONATHAN </strong>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img src="https://cdn-icons-png.flaticon.com/512/10473/10473363.png" width="28">
 </h1>
 
 <div align="center">
@@ -19,30 +19,30 @@
 
 <br/>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> **Sobre Mí**
-<img align="right" alt="Ethical Hacking GIF" width="380" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+## Sobre Mí
+<img align="right" alt="Hacking Animation" width="380" src="https://media.tenor.com/0dE2u2w7x3YAAAAC/hacker.gif">
 
-🔐 **Cybersecurity Specialist** y **Ethical Hacker** especializado en pentesting y análisis forense  
-📊 **Data Scientist** apasionado por descubrir patrones en datos y crear insights de seguridad  
-🛡️ Experto en identificar vulnerabilidades y fortalecer la seguridad de sistemas  
-💡 Transformo datos complejos en inteligencia accionable para decisiones de negocio  
-🔍 Especializado en análisis de logs, detección de amenazas y forensia digital  
-📈 Creo dashboards de seguridad y pipelines ETL para monitoreo continuo  
-💼 Combino habilidades técnicas de hacking ético con análisis avanzado de datos  
+**Cybersecurity Specialist** y **Ethical Hacker** especializado en pentesting y análisis forense  
+**Data Scientist** apasionado por descubrir patrones en datos y crear insights de seguridad  
+Experto en identificar vulnerabilidades y fortalecer la seguridad de sistemas  
+Transformo datos complejos en inteligencia accionable para decisiones de negocio  
+Especializado en análisis de logs, detección de amenazas y forensia digital  
+Creo dashboards de seguridad y pipelines ETL para monitoreo continuo  
+Combino habilidades técnicas de hacking ético con análisis avanzado de datos  
 
 <br/>
 
 ---
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> **Arsenal Tecnológico**
+## Arsenal Tecnológico
 
-### 🐍 **Lenguajes de Programación & Análisis**
+### Lenguajes de Programación & Análisis
 <div align="center">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/>
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
 </div>
 
-### 🛡️ **Cybersecurity & Penetration Testing**
+### Cybersecurity & Penetration Testing
 <div align="center">
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
   <img src="https://img.shields.io/badge/Metasploit-ED1C24?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
@@ -51,19 +51,19 @@
   <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP"/>
 </div>
 
-### 📊 **Data Analytics & Visualization**
+### Data Analytics & Visualization
 <div align="center">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="Power BI"/>
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
 </div>
 
-### 🤖 **Machine Learning & Security Analytics**
+### Machine Learning & Security Analytics
 <div align="center">
   <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 </div>
 
 ---
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> **Especialidades Duales**
+## Especialidades Duales
 <table align="center">
 <tr>
 <td align="center" width="200">
@@ -102,21 +102,17 @@
 </table>
 
 ---
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> **Estadísticas de Actividad (Simulada)**
+## Estadísticas de Actividad
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yonathanmym&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF" alt="Activity Graph" width="100%"/>
 </div>
 
 <div align="center">
-  <table>
-    <tr>
-      <td><img src="https://media.giphy.com/media/WFZvB7VIXWdRc/giphy.gif" width="300"/></td>
-      <td><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/></td>
-    </tr>
-  </table>
+  <img src="https://media.tenor.com/0dE2u2w7x3YAAAAC/hacker.gif" width="300"/>
+  <img src="https://media.tenor.com/5S7g8j8j8j8AAAAC/data-analysis.gif" width="300"/>
 </div>
 
-### 💻 **Lenguajes Dominados**
+### Lenguajes Dominados
 <div align="center">
   <img src="https://img.shields.io/badge/Python-100%25-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python 100%"/>
   <img src="https://img.shields.io/badge/SQL-100%25-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL 100%"/>
@@ -124,7 +120,7 @@
 </div>
 
 ---
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> **Proyectos Destacados**
+## Proyectos Destacados
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=120&section=header&text=Cybersecurity%20Analytics%20Suite&fontSize=25&fontColor=000000" alt="Project 1"/>
   <br/>
@@ -132,34 +128,34 @@
 </div>
 
 ---
-## 🏆 **Certificaciones & Logros**
+## Certificaciones & Logros
 <div align="center">
   <img src="https://img.shields.io/badge/CEH-Certified%20Ethical%20Hacker-FF0000?style=for-the-badge&logo=ec-council&logoColor=white" alt="CEH"/>
   <img src="https://img.shields.io/badge/CISSP-Security%20Professional-0066CC?style=for-the-badge&logo=isc2&logoColor=white" alt="CISSP"/>
   <img src="https://img.shields.io/badge/Data%20Science-Professional-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Data Science"/>
   <br/><br/>
-  <img src="https://media.giphy.com/media/3o7TKsQ8Jn7yZ7oY2k/giphy.gif" width="300" alt="Trophy Animation"/>
+  <img src="https://media.tenor.com/3o7TKsQ8Jn7yZ7oY2kAAAAC/trophy.gif" width="300" alt="Trophy"/>
 </div>
 
 ---
-## 🎯 **Mi Filosofía**
+## Mi Filosofía
 <div align="center">
   <table>
     <tr>
       <td align="center">
-        <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100"/><br/>
-        <b>🔒 "La seguridad no es un producto, es un proceso"</b>
+        <img src="https://media.tenor.com/3oKIPEqDGUULpEU0aQAAAAC/lock.gif" width="100"/><br/>
+        <b>"La seguridad no es un producto, es un proceso"</b>
       </td>
       <td align="center">
-        <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100"/><br/>
-        <b>📊 "Los datos sin contexto son solo ruido"</b>
+        <img src="https://media.tenor.com/26tn33aiTi1jkl6H6AAAAC/data.gif" width="100"/><br/>
+        <b>"Los datos sin contexto son solo ruido"</b>
       </td>
     </tr>
   </table>
 </div>
 
 ---
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> **Conecta Conmigo**
+## Conecta Conmigo
 <div align="center">
   <a href="mailto:renzo.toni.189@gmail.com">
     <img src="https://img.shields.io/badge/Email-renzo.toni.189@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -180,7 +176,8 @@
 </div>
 
 <div align="center">
-  <b>⚡ "Hacking ethically, analyzing intelligently, securing effectively" ⚡</b>
+  <b>"Hacking ethically, analyzing intelligently, securing effectively"</b>
   <br/><br/>
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100"/>
+  <img src="https://flagcdn.com/pe.gif" width="30"/> **Desde Perú con pasión por la ciberseguridad**  
+  <img src="https://media.tenor.com/26tn33aiTi1jkl6H6AAAAC/data.gif" width="100"/>
 </div>
