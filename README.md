@@ -147,7 +147,7 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100"/><br/>
+        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnBwemY5MzRuc284ZnAxenpic3UzOXV2a2g3ejByeDV3ejU4cDdjMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/USsjB3PDaBmFMTVXmp/giphy.gif" width="100"/><br/>
         <b>🔒 "La seguridad no es un producto, es un proceso"</b>
       </td>
       <td align="center">
